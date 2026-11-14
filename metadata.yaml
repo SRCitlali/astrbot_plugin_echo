@@ -1,0 +1,6 @@
+name: astrbot_plugin_echo
+display_name: 回音
+desc: 轻量好用的群聊复读插件，支持文本、图片、表情复读与打断
+help: 略
+version: v2.1.7
+author: SRCitlali
