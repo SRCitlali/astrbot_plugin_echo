@@ -4,3 +4,11 @@ desc: 轻量好用的群聊复读插件，支持文本、图片、表情复读�
 help: 略
 version: v2.1.7
 author: SRCitlali
+astrbot_version: ">=4.29.0"
+support_platforms:
+  - qq_official
+tags:
+  - 复读
+  - 群聊
+  - 娱乐
+  - QQ官方
